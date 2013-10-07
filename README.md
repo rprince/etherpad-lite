@@ -47,7 +47,7 @@ Update to the latest version with `git pull origin`, then run `bin\installOnWind
 
 ## GNU/Linux and other UNIX-like systems
 You'll need gzip, git, curl, libssl develop libraries, python and gcc.  
-*For Debian/Ubuntu*: `apt-get install gzip git-core curl python libssl-dev pkg-config build-essential`  
+*For Debian/Ubuntu*: `apt-get install gzip git-core curl python libssl-dev pkg-config build-essential nodejs npm`  
 *For Fedora/CentOS*: `yum install gzip git-core curl python openssl-devel && yum groupinstall "Development Tools"`
 *For FreeBSD*: `portinstall node, npm, git (optional)`
 
